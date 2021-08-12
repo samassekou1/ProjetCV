@@ -1,0 +1,22 @@
+.titre{
+    text-align: center;
+}
+.titre1{
+    text-align: center;
+    color: coral;
+}
+
+#bouton{
+   padding: 15px;
+}
+
+#bouton h2{
+    float: left;
+    color: coral;
+    
+}
+
+#bouton form{
+    float: right;
+    margin-top: 25px;
+}
